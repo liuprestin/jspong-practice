@@ -1,0 +1,10 @@
+JS PONG and working with 2D Canvas
+
+### DEV resources
+- https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+- https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+
+problems regarding setInterval
+https://web.dev/optimize-javascript-execution/
+https://css-tricks.com/using-requestanimationframe/
